@@ -48,3 +48,14 @@ outfmt 6 \
 -db \Users\534\Desktop\big-data\blast\db1\Geo_Female \
 
 -out \Users\534\Desktop\big-data\out\blastn_H_sapiens_Female.out
+
+
+#Head#
+
+Put the file location:
+
+!head \Users\534\Desktop\big-data\blast\query\Homo-sapiens-chromosome19.fasta
+
+![image3](Head.png)
+
+ 
